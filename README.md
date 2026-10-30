@@ -64,5 +64,65 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-docsmint-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://docsmint.com/
+DocsMint provides a SaaS platform that lets teams create, edit, and organize documents while leveraging AI-powered search and assistance. Users can store knowledge, collaborate in real time, and integrate the workspace with AI tools for content generation, summarization, and retrieval, all within a secure, cloud‑based environment.
+
+**Areas:** AI · Document-Management · Knowledge-Base · SaaS · Collaboration
+
+## docsmint-com on APIs.io
+
+Everything profiled for docsmint-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/docsmint-com/](https://apis.io/providers/docsmint-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (17)
+
+- DocsMint API — Self-hosted AI-native knowledge workspace API.
+- docsmint-com Admin API — Operator maintenance endpoints (reindex, embedding stats, provider health) — API key protected
+- docsmint-com Attachments API — The Attachments API from docsmint-com — 3 operation(s) for attachments.
+- docsmint-com Auth API — Authentication endpoints
+- docsmint-com Categories API — Category management for folders and documents
+- docsmint-com Csrf Token API — The Csrf Token API from docsmint-com — 1 operation(s) for csrf token.
+- docsmint-com Documents API — Document CRUD and search
+- docsmint-com Folders API — Folder management
+- docsmint-com Graph API — GraphRAG entity and relationship queries (AGE)
+- docsmint-com Health API — The Health API from docsmint-com — 1 operation(s) for health.
+- docsmint-com Keys API — The Keys API from docsmint-com — 4 operation(s) for keys.
+- docsmint-com Plugins API — The Plugins API from docsmint-com — 2 operation(s) for plugins.
+- docsmint-com Search API — Hybrid full-text + semantic search
+- docsmint-com Share API — Sharing and guest access
+- docsmint-com Tags API — Tag management
+- docsmint-com Trash API — The Trash API from docsmint-com — 3 operation(s) for trash.
+- docsmint-com Webhooks API — The Webhooks API from docsmint-com — 1 operation(s) for webhooks.
+
+_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://docsmint.com/)
+- [Documentation](https://docsmint.com/docs)
+- [Getting started](https://docsmint.com/#features)
+- [API reference](https://docsmint.com/docs/api)
+- [Pricing](https://docsmint.com/pricing)
+- [Sign up](https://docsmint.com/signup)
+- [Support](https://docsmint.com/contact)
+- [Changelog](https://docsmint.com/releases)
+- [Security](https://docsmint.com/security)
+- [Terms of service](https://docsmint.com/terms)
+- [Privacy policy](https://docsmint.com/privacy)
+- [GitHub](https://github.com/HiAi-gg)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/docsmint-com/](https://apis.io/providers/docsmint-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for docsmint-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/docsmint-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
